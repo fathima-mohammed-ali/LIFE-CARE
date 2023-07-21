@@ -1,0 +1,39 @@
+.service-img{
+    background-size: 100%;
+    background-image: url('https://images.pexels.com/photos/40568/medical-appointment-doctor-healthcare-40568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    margin-top: 40px;
+    
+    
+}
+.card{
+   margin-top: 100px;
+   margin-bottom: 100px;
+}
+
+#giteicon{
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size: 60px;
+    color: cornflowerblue;
+}
+.card-title{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-text{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#contacticon{
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size: 60px; 
+    color: cornflowerblue;
+}
+#medicalservices{
+    margin-left: 40%;
+    margin-top: 50px;
+    font-size: 60px; 
+    color: cornflowerblue;   
+}
+.card{
+    background-color: rgba(106, 109, 107, 0.3); 
+}

@@ -1,0 +1,45 @@
+.Login-table{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 450px;
+    color: cornflowerblue; 
+}
+
+#password-box{
+    margin-bottom: 30px;   
+}
+#mail-box{
+    margin-top: 30px; 
+    margin-bottom: 30px;
+}
+.Login-form{
+    border-style: solid;
+    width: 500px;
+    text-align: center;
+    border-color: darkgray;
+    margin-left: 250px;
+}
+.login-btn{
+    text-decoration: none;
+    color: white;
+}
+.login-signin{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: cornflowerblue; 
+    font-weight: 800;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 330px;
+
+}
+.register-link{
+ text-decoration-line: none;
+}
+
+.register-pg{
+    color: cornflowerblue;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    margin-left: 450px;
+}

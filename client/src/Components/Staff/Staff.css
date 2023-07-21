@@ -1,0 +1,17 @@
+.staff-home-head{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 500px; 
+    margin-left: 10px;
+    color:rebeccapurple;
+}
+.top-section{
+    border-style: hidden;
+    background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+    width: 100%;
+    height: 125px;
+}
+#modal-btn:hover{
+    background-color: cornflowerblue;
+}

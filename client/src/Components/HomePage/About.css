@@ -1,0 +1,20 @@
+#about-head{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#about-head5{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: cornflowerblue;
+}
+#para{
+  color: gray;  
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: larger;
+}
+#image{
+    width:500px;
+    margin-top: 40px;
+    margin-left: 20px;
+}

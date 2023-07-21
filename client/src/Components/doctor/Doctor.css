@@ -1,0 +1,41 @@
+.doctor-home-head{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 500px; 
+    margin-left: 10px;
+    color: whitesmoke
+}
+
+.form-border{
+    margin-top: 20px;
+    margin-left: 20%;
+    border-style: solid;
+    border-color: darkgrey;
+    width: 500px;
+}
+.labels{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 500;
+    color: cornflowerblue; 
+    margin-left: 150px;
+    margin-top: 30px;
+}
+.top-section{
+    border-style: hidden;
+    background-image: linear-gradient(-225deg, #7085B6 0%, #87A7D9 50%, #DEF3F8 100%);
+    width: 100%;
+    height: 125px;
+}
+#form-labels{
+    margin-top: 50px;
+    margin-left: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+    font-size: larger;
+}
+
+
+
+    
+

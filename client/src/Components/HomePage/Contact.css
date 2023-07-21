@@ -1,0 +1,73 @@
+.Contact-lifecare{
+    margin-top: 100px;
+    margin-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+}
+#Contact-para{
+    margin-top: 30px;
+    color: gray;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;  
+}
+.Contact-contact{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    color: rgb(100, 149, 237);  
+}
+#locationicon{
+   margin-right: 10px;
+   margin-top: 10px;
+   color: cornflowerblue;
+}
+#sendicon{
+    margin-right: 10px;
+    margin-top: 10px;
+    color: cornflowerblue;  
+
+}
+#phoneicon{
+    margin-right: 10px;
+    margin-top: 10px;
+    color: cornflowerblue;    
+}
+.Contact-info{
+    color: gray;  
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+#mailicon{
+    margin-right: 10px;
+    color: cornflowerblue;   
+}
+
+#fbicon{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    font-size: 30px;
+    color: whitesmoke;
+}
+#twittericon{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px; 
+    color: whitesmoke; 
+}
+#youtubeicon{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 30px; 
+    color: whitesmoke;  
+}
+#footer-para{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    color: whitesmoke;
+    /* margin-left: 50px; */
+}
+#lifecare-link{
+    text-decoration: none;
+    color: black;  
+}

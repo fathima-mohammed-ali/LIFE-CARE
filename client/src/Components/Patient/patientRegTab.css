@@ -1,0 +1,32 @@
+.patient-regtable{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 370px;
+    color: cornflowerblue; 
+}
+.patient-head2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    color: cornflowerblue;   
+}
+.patient-head3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 500;
+    color: cornflowerblue;   
+}
+.patient-form{
+    border-style: solid;
+    width: 800px;
+    text-align: center;
+    border-color: darkgray;
+    margin-left: 100px;
+}
+#boxes{
+    margin-top: 30px; 
+    margin-bottom: 20px;
+}

@@ -1,0 +1,44 @@
+.doctor-regtable{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 370px;
+    color: cornflowerblue; 
+}
+#standard-basic{
+    margin-top:20px ;
+    margin-bottom: 10px;
+}
+#input-with-icon-textfield{
+    margin-bottom: 10px;
+}
+.doctor-form{
+    border-style: solid;
+    width: 500px;
+    text-align: center;
+    border-color: darkgray;
+    margin-left: 250px;
+}
+#date{
+    font-size: small;
+    margin-left: 50px;
+}
+#name{
+    margin-top: 30px;
+}
+.nurse-regtable{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 370px;
+    color: cornflowerblue; 
+}
+.nurse-form{
+    border-style: solid;
+    width: 500px;
+    text-align: center;
+    border-color: darkgray;
+    margin-left: 250px;
+}

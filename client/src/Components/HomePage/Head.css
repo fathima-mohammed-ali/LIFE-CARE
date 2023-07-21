@@ -1,0 +1,92 @@
+#head{
+    position:"fixed";
+    z-index: 10;
+    background-color: aliceblue;
+}
+.life-care {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .number{
+        margin-top: 30px;
+        margin-left: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .email{
+        margin-top: 30px;
+        margin-left: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .time{
+        margin-top:30px ;
+        margin-left: 10px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    button:hover{
+        border-radius: 30px;       
+    }
+    #monitor-heart{
+        color: cornflowerblue;
+    }
+    #lifecare-link{
+        text-decoration: none;
+        color: black;
+    }
+
+
+    @media (min-width: 576px) { 
+       
+        .life-care{
+            margin-left: 100px;
+        }
+       .btn{
+        display: none;
+       }
+       .number{
+        display: none;
+    }
+    .time{
+        display: none;
+    }
+    .email{
+        display:none;
+    }
+     }
+
+    
+    @media (min-width: 768px) { 
+        .number{
+            display: none;
+        }
+        .time{
+            display: none;
+        }
+        .email{
+            display:none;
+        }
+       
+     }
+    
+
+    @media (min-width: 992px) { 
+      .email{
+        display: block;
+      }
+      .number{
+        display: block;
+      }
+      .time{
+        display: block;
+      }
+    }
+
+    @media (min-width: 1200px) { 
+
+     }
+    
+
+    
+
+
+

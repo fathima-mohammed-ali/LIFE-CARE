@@ -1,0 +1,18 @@
+.home{
+  background-size: 100%;
+  background-image: url('https://images.pexels.com/photos/6129685/pexels-photo-6129685.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+  background-repeat: no-repeat; 
+  background-position: center;
+  height: 100%;
+  
+  
+  
+}
+.sentence{
+  text-align: center;
+  color:black;
+  padding-top:10em;
+  * { color:black; text-decoration: none;}
+}
+
+

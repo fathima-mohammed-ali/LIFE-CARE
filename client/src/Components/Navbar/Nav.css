@@ -1,0 +1,56 @@
+.nav-head{
+   position:"fixed"
+   
+}
+
+#home{
+   padding: 10px;
+   font-size: larger;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#about{
+    padding: 10px ;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ }  
+ #services{
+    padding: 10px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+ } 
+ #navbarDropdown{
+    padding: 10px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+ }
+ #contact{
+    padding: 10px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+ }
+ .tag:hover{
+    background-color: coral;
+    box-shadow: 5px 5px whitesmoke;
+ }
+ #logout{
+   margin-left: 800px;
+ }
+ #logout:hover{
+   background-color: coral;
+   box-shadow: 5px 5px whitesmoke;
+ }
+ #logoutdoc{
+   margin-left: 650px;
+ }
+ #logoutdoc:hover{
+   background-color: coral;
+   box-shadow: 5px 5px whitesmoke;
+ }
+ #logoutstaff{
+   margin-left: 550px;
+ }
+ #logoutstaff:hover{
+   background-color: coral;
+   box-shadow: 5px 5px whitesmoke;
+ }
+
